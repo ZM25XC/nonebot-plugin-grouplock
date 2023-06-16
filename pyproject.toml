@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nonebot-plugin-grouplock"
+name = "nonebot_plugin_grouplock"
 version = "0.0.2"
 description = "一个基于nonebot2和go-cqhttp的群聊人数锁定插件"
 authors = ["ZM25XC <xingling25@qq.com>"]
@@ -7,7 +7,7 @@ license="MIT"
 readme="README.md"
 homepage="https://github.com/ZM25XC/nonebot-plugin-grouplock"
 packages = [
-  { include = "nonebot-plugin-grouplock" },
+  { include = "nonebot_plugin_grouplock" },
 ]
 [tool.poetry.dependencies]
 python = "^3.8"
