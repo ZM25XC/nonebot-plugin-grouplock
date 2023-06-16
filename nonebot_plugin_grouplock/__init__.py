@@ -7,6 +7,9 @@ __plugin_meta__ = PluginMetadata(
     name='nonebot-plugin-grouplock',
     description='一个可以锁定群聊人数的插件',
     usage='...',
+    homepage="https://github.com/ZM25XC/nonebot-plugin-grouplock",
+    type="application",
+    supported_adapters={"~onebot.v11"},
     extra={
         'author': 'ZM25XC',
         'version': '0.0.1',
