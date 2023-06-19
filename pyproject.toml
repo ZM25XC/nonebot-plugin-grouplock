@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nonebot_plugin_grouplock"
+name = "nonebot-plugin-grouplock"
 version = "0.0.2"
 description = "一个基于nonebot2和go-cqhttp的群聊人数锁定插件"
 authors = ["ZM25XC <xingling25@qq.com>"]
